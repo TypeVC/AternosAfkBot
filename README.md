@@ -1,4 +1,4 @@
-# AternosAfkBot
+# Aternosbotforfree
 🚀 Aternos Afk Bot All Version Supported With Login System 
 
 ### Star The Repo if You Play Minecraft
